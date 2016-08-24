@@ -1,3 +1,8 @@
+<<<<<<< HEAD
 1£¬start to learn git
 2£¬tansfer to test branch
 3,step3
+=======
+1£¬ºÍÎÒÒ»ÆğÑ§Ï°git
+2£¬´«´úÂëµ½serverµÄÖ¸¶¨·ÖÖ§testerw
+>>>>>>> parent of aec2b6c... ç‹è²çš„ä¼šå‘˜
