@@ -1,4 +1,4 @@
- for test
+﻿ for test
 1，start to learn git
 2，tansfer to test branch
 3,step3
@@ -8,3 +8,4 @@
 
 3 test for baranch 2
 3，在branch master 上修改提交
+4 ，亡魂复活
