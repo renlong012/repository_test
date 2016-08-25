@@ -5,8 +5,8 @@
 
 1，和我一起学习git
 2，传代码到server的指定分支testerw
-
+fhfjh,
 3 test for baranch 2
 3，在branch master 上修改提交
 4 ，亡魂复活
-5，同步
+5，同步ahj
