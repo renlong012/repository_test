@@ -5,4 +5,6 @@
 =======
 1£¬ºÍÎÒÒ»ÆğÑ§Ï°git
 2£¬´«´úÂëµ½serverµÄÖ¸¶¨·ÖÖ§testerw
->>>>>>> parent of aec2b6c... ç‹è²çš„ä¼šå‘˜
+>>>>>>> parent of aec2b6c... ç‹è²çš„ä¼šå‘?
+
+3 test for baranch 2
