@@ -1,14 +1,9 @@
 for test
-1£¬start to learn git
-2£¬tansfer to test branch
+1ï¼Œstart to learn git
+2ï¼Œtansfer to test branch
 3,step3
-=======
-1£¬ºÍÎÒÒ»ÆğÑ§Ï°git
-2£¬´«´úÂëµ½serverµÄÖ¸¶¨·ÖÖ§testerw
->>>>>>> parent of aec2b6c... ç‹è²çš„ä¼šå‘?
 
-<<<<<<< HEAD
-3£¬ÔÚbranch master ÉÏĞŞ¸ÄÌá½»
-=======
+1ï¼Œå’Œæˆ‘ä¸€èµ·å­¦ä¹ git
+2ï¼Œä¼ ä»£ç åˆ°serverçš„æŒ‡å®šåˆ†æ”¯testerw
 3 test for baranch 2
->>>>>>> 2
+3ï¼Œåœ¨branch master ä¸Šä¿®æ”¹æäº¤
