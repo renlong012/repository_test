@@ -7,4 +7,8 @@ for test
 2，传代码到server的指定分支testerw
 >>>>>>> parent of aec2b6c... 鐜嬭彶鐨勪細鍛?
 
+<<<<<<< HEAD
 3，在branch master 上修改提交
+=======
+3 test for baranch 2
+>>>>>>> 2
