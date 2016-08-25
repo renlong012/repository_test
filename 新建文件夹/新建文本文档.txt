@@ -2,7 +2,7 @@
 1，start to learn git
 2，tansfer to test branch
 3,step3
-
+8,fiugokp
 1，和我一起学习git
 2，传代码到server的指定分支testerw
 
@@ -10,3 +10,5 @@
 3，在branch master 上修改提交
 4 ，亡魂复活
 5，同步
+6,498t7fjgkdgl;
+7,59580-49
